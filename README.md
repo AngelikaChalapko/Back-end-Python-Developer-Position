@@ -7,6 +7,7 @@ FinTech project
 - Experience with continuous process improvement
 - Time management and analytical skills
 - Excellent client-facing communication skill
+- written and speaking English (Upper-Intermediate)
 
 ## Personal Skills:
 - Communication skills

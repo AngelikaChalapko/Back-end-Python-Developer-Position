@@ -1,11 +1,6 @@
 # Back-end-Python-Developer-Position
 FinTech project
 
-## Project Stack:
-
-- architecture — AWS serverless (lambda) & docker / jenkins (implementing for email message parsing)
-- back end frameworks — node.js, express.js
-- front end libraries — react.js, websockets, redux, webpack
 
 ## Technical Skills:
 - 2+ years’ experience in Python
@@ -24,3 +19,10 @@ FinTech project
 
 ## Will be plus:
 - Fintech domain expertise: payments, wealth management, lending, fundraising, InsurTech, blockchain, etc.
+
+
+## Project Stack:
+
+- architecture — AWS serverless (lambda) & docker / jenkins (implementing for email message parsing)
+- back end frameworks — node.js, express.js
+- front end libraries — react.js, websockets, redux, webpack
